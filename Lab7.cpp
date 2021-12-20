@@ -1,5 +1,3 @@
-//Reference to https://edoras.sdsu.edu/~mthomas/sp17.605/lectures/MPI-VectorOps.pdf
-
 #include "mpi.h"
 #include <ctime>
 #include <iostream>
